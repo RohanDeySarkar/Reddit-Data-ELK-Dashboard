@@ -42,10 +42,10 @@ class RedditData:
       
     return elasticData
 
-CLIENT_ID = 'oNaSFwSgYv1riYbi-KkPOg'
-CLIENT_SECRET = 'zQn0DqqDrs98uDDIZO1hE4ZrtB_qiw'
-USERNAME = 'wrohan'
-PASSWORD = 'nokianokia000'
+CLIENT_ID = 'your_id'
+CLIENT_SECRET = 'your_secret'
+USERNAME = 'your_username'
+PASSWORD = 'your_password'
 
 redditData = RedditData(CLIENT_ID, CLIENT_SECRET, USERNAME, PASSWORD)
 
